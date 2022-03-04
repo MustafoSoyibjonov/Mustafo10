@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.block1{
+
+}
+.silka1:hover {
+color: yellow;
+font-size: 400px;
+}
+.text::first-letter {
+    font-size: 50px;
+    color: rgb(236, 44, 44);
+}
+input:focus {
+    border: 20px solid red;
+background-color: aqua;
+}
+.text2::selection {
+   color: blue;
+}
+
+
+.input2 {
+    box-shadow: red;
+}
